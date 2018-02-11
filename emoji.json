@@ -1,0 +1,46 @@
+{
+  "positive_high": [
+    "blush",
+    "bowtie",
+    "grin",
+    "heart_eyes",
+    "laughing",
+    "relaxed",
+    "satisfied",
+    "smile",
+    "smiley",
+    "stuck_out_tongue_closed_eyes"
+  ],
+  "positive_low": [
+    "+1",
+    "clap",
+    "hand",
+    "metal",
+    "ok_hand",
+    "ok_woman",
+    "pray",
+    "v"
+  ],
+  "negative_high": [
+    "confounded",
+    "disappointed_relieved",
+    "persevere",
+    "rage",
+    "sob",
+    "triumph",
+    "unamused",
+    "underage",
+    "weary",
+    "worried"
+  ],
+  "negative_low": [
+    "-1",
+    "bomb",
+    "bow",
+    "mask",
+    "no_good",
+    "point_down",
+    "speak_no_evil",
+    "trollface"
+  ]
+}
